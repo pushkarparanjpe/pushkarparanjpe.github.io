@@ -1,4 +1,6 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Pushkar Paranjpe is a researcher in the Big Data and Data Sciences dept. of Star India Pvt. Ltd.  
+He is interested in machine learning, 3d printing, OSS and startups. This is a place to document his side projects.  
+When not in a lockdown mode - he likes: cycling and swimming. He also enjoys reading, playing PC / PS4 games / chess / board games.
 
